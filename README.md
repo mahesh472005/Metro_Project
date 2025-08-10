@@ -93,7 +93,7 @@ TicketID: 1754860340 | From: Versova | To: Ghatkopar | Type: Return | Passengers
 
 | Main Menu | Ticket Example |
 |-----------|----------------|
-| ![Menu Screenshot](assets/images/menu.png) | ![Ticket Screenshot](assets/images/ticket.png) |
+| ![Menu Screenshot](assets/images/Screenshot1.png) | ![Ticket Screenshot](assets/images/Screenshot2.png) |
 
 ---
 
